@@ -13,6 +13,12 @@
           <e p="RoomsController.cs" t="Include" />
           <e p="RootController.cs" t="Include" />
         </e>
+        <e p="Filters" t="Include">
+          <e p="JasonExceptionFilter.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ApiError.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
